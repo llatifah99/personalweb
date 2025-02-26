@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+body {
+  background-color: #f5f5dc;
+  font-family: "Poppins", sans-serif;
+  color: #6c6c45;
+}
+.navbar {
+  background-color: #f5f5dc !important;
+}
+.navbar-brand {
+  color: inherit !important;
+}
+
+.skills img {
+  height: 120px;
+}
+
+#home {
+  padding-top: 100px;
+}
+#projects {
+  background-color: #e0e094;
+}
+/* Warna Outline */
+.btn-outline-dark {
+  border-color: #6c6c45 !important;
+  color: #6c6c45 !important;
+}
+
+/* Hover*/
+.btn-outline-dark:hover {
+  background-color: #6c6c45 !important;
+  color: white !important;
+  border-color: #6c6c45 !important;
+}
+
+#contact {
+  background-color: #91915e;
+  color: #e0e094;
+}
+
+#contact a img {
+  height: 80px;
+}
